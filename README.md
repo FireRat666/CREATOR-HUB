@@ -1,4 +1,4 @@
-# Creator Hub
+# Creator Hub Test
 
 **Unity tools in one window.** Open Creator SDK / Altspace and Banter projects,
 manage Creator Works MCP and Creator Project Setup, and browse community plugins.
